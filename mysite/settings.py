@@ -25,7 +25,7 @@ SECRET_KEY = '(vaof8ck3^s(nl(%#nqoq$1$8(ap1(0x9+ibv=w40%5af^iify'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["manta.pythonanywhere.com","127.0.0.1"]
 
 
 # Application definition
